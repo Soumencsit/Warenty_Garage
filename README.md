@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Warrant-Garage-
 # Warrant-Garage-
 # Warranty-Garage-
+# Warranty-Garage-
