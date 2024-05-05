@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # Warranty-Garage-
 # Warranty-Garage-
 # WarrantyGarage
+# warrantygarage-
