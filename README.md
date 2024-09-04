@@ -1,7 +1,7 @@
 #Warranty Management WebApp
-#An ongoing project for managing warranties, customers, and products. This system is built using React for the front end and MySQL for the back end, providing a robust solution for tracking and managing warranty information.
-![image](https://github.com/user-attachments/assets/9e67f6dd-1b88-4db8-b0f7-de6ef742bbc5)
 
+![image](https://github.com/user-attachments/assets/9e67f6dd-1b88-4db8-b0f7-de6ef742bbc5)
+An ongoing project for managing warranties, customers, and products. This system is built using React for the front end and MySQL for the back end, providing a robust solution for tracking and managing warranty information.
 ## Features
 
 - **Warranty Management:** Track and manage warranty information for various products.
